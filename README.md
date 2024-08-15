@@ -1,6 +1,4 @@
 - Nidish S R
-- he/him
-- Level 18
 - Interested in ML and LLMs
 
 
