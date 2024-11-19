@@ -1,5 +1,5 @@
 - Nidish S R
-- Interested in ML and LLMs
+- Loves to know about new concepts
 
 
 
